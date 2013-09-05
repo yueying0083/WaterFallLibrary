@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="padding">2dp</dimen>
+    <dimen name="choice_item_padding_x">2dp</dimen>
+    <dimen name="choice_item_padding_y">8dp</dimen>
+</resources> 
